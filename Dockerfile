@@ -17,8 +17,8 @@ RUN apk add python python-dev py-pip libxml2-dev libxslt-dev libffi-dev gcc musl
 	
 RUN pip install --upgrade pip; \
     pip install -U setuptools; \
-
-RUN pip install scrapy
+	pip install scrapy;
+	
 #CMD ["sh"]
 ENTRYPOINT ["/usr/bin/scrapy"]
 	
