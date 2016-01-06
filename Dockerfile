@@ -9,10 +9,10 @@
 ##################################################################################
 
 FROM alpine:latest
-MAINTAINER mystique <miztiik@gmail.com>
+MAINTAINER mystique
 #RUN  echo "http://nl.alpinelinux.org/alpine/edge/testing">>/etc/apk/repositories
 RUN apk update
-RUN apk add python python-dev py-pip libxml2-dev libxslt-dev libffi-dev gcc musl-dev openssl-dev libgcc
+RUN apk add python python-dev py-pip libxml2-dev libxslt-dev libffi-dev gcc musl-dev openssl-dev libgcc \
     rm -rf /var/cache/apk/*;
 	
 RUN pip install --upgrade pip; \
@@ -21,3 +21,4 @@ RUN pip install --upgrade pip; \
 RUN pip install scrapy
 #CMD ["sh"]
 ENTRYPOINT ["/usr/bin/scrapy"]
+	
