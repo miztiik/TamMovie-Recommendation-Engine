@@ -1,0 +1,1459 @@
+This row has 0 cells
+This row has 8 cells and month is JAN
+This data in this cell is J
+A
+N
+This data in this cell is 2
+This data in this cell is Thiru Vi Ka Poonga
+This data in this cell is Senthil
+This data in this cell is Senthil, Swathi Shanmugam
+This data in this cell is Drama
+This data in this cell is The Budget Film Company
+This data in this cell is [4]
+This row has 6 cells
+This data in this cell is Virudhalaam Pattu
+This data in this cell is R. Jayakanthan
+This data in this cell is Hemanth Kumar, Saniya Srivastav
+This data in this cell is Romance
+This data in this cell is Tamizh Thai Productions
+This data in this cell is [4]
+This row has 6 cells
+This data in this cell is Vishayam Veliye Theriya Koodadhu
+This data in this cell is A. Raagaventira
+This data in this cell is Sentrayan, Ranga
+This data in this cell is Thriller
+This data in this cell is Open Eye Theaatres
+This data in this cell is [4]
+This row has 7 cells
+This data in this cell is 9
+This data in this cell is Kizhakke Udhiththa Kaadhal
+This data in this cell is K. Muni Shankar
+This data in this cell is Aariyan, Lisha, Sumalatha
+This data in this cell is Comedy drama
+This data in this cell is Faceon Mediya
+This data in this cell is [5]
+This row has 6 cells
+This data in this cell is Vettaiyadu
+This data in this cell is K. S. Vijayabalan
+This data in this cell is Vidiyal Raju, Udhayathara, Hari, Prajwal Poovaiah
+This data in this cell is Drama
+This data in this cell is Shoundaryan Pictures
+This data in this cell is [5]
+This row has 7 cells
+This data in this cell is 14
+This data in this cell is I
+This data in this cell is Shankar
+This data in this cell is Vikram, Amy Jackson, Suresh Gopi, Upen Patel
+This data in this cell is Romantic thriller
+This data in this cell is Aascar Film
+This data in this cell is [6]
+This row has 7 cells
+This data in this cell is 15
+This data in this cell is Aambala
+This data in this cell is Sundar C.
+This data in this cell is Vishal, Hansika Motwani, Prabhu
+This data in this cell is Action masala
+This data in this cell is Vishal Film Factory
+This data in this cell is [6]
+This row has 6 cells
+This data in this cell is Darling
+This data in this cell is Sam Anton
+This data in this cell is G. V. Prakash Kumar, Nikki Galrani, Karunas, Srushti Dange
+This data in this cell is Horror comedy
+This data in this cell is Studio Green
+Geetha Arts
+This data in this cell is [6]
+This row has 7 cells
+This data in this cell is 23
+This data in this cell is Appavi Kateri
+This data in this cell is Ali Akbar
+This data in this cell is Rafiq, Meera, Vimal
+This data in this cell is Horror
+This data in this cell is Gopikaa Movie Makers
+This data in this cell is [7]
+This row has 6 cells
+This data in this cell is Aroopam
+This data in this cell is Vincent Jayaraj
+This data in this cell is Deva, Darshitha
+This data in this cell is Thriller
+This data in this cell is Raana Pictures
+This data in this cell is [7]
+This row has 6 cells
+This data in this cell is Thottal Thodarum
+This data in this cell is Cable Shankar
+This data in this cell is Thaman Kumar, Arundhati
+This data in this cell is Romantic thriller
+This data in this cell is FCS Creations
+This data in this cell is [7]
+This row has 7 cells
+This data in this cell is 30
+This data in this cell is Dharani
+This data in this cell is Guhan Sambantham
+This data in this cell is Aari, Elango Kumaravel, Ajay Krishna, Sandra Amy, Varunika
+This data in this cell is Action drama
+This data in this cell is Dream Factory
+This data in this cell is [8]
+This row has 6 cells
+This data in this cell is Isai
+This data in this cell is S. J. Surya
+This data in this cell is S. J. Surya, Sathyaraj, Savithri
+This data in this cell is Psychological thriller
+This data in this cell is SS Productions
+This data in this cell is [8]
+This row has 6 cells
+This data in this cell is Killadi
+This data in this cell is A. Venkatesh
+This data in this cell is Bharath, Nila
+This data in this cell is Action masala
+This data in this cell is Sri Saravana Creations
+This data in this cell is [8]
+This row has 6 cells
+This data in this cell is Pulan Visaranai 2
+This data in this cell is R. K. Selvamani
+This data in this cell is Prashanth, Karthika Mathew, Ashwini, R. K.
+This data in this cell is Crime thriller
+This data in this cell is I. V. Cine Productions
+This data in this cell is [8]
+This row has 6 cells
+This data in this cell is Touring Talkies
+This data in this cell is S. A. Chandrasekhar
+This data in this cell is S. A. Chandrasekhar, Papri Ghosh, Abi Saravanan, Sunulekshmi
+This data in this cell is Romantic thriller
+This data in this cell is Staar Makers
+This data in this cell is [8]
+This row has 8 cells and month is FEB
+This data in this cell is F
+E
+B
+This data in this cell is 5
+This data in this cell is Yennai Arindhaal
+This data in this cell is Gautham Menon
+This data in this cell is Ajith Kumar, Arun Vijay, Trisha Krishnan, Anushka Shetty
+This data in this cell is Action drama
+This data in this cell is Sri Sai Ram Creations
+This data in this cell is [9]
+This row has 7 cells
+This data in this cell is 6
+This data in this cell is Ponge Ezhu Manohara
+This data in this cell is Ramesh Rangasamy
+This data in this cell is Irfan, Arundathi Nair, Archana Vishwanath
+This data in this cell is Romantic comedy
+This data in this cell is Banyan Movies
+This data in this cell is [10]
+This row has 7 cells
+This data in this cell is 13
+This data in this cell is Anegan
+This data in this cell is K. V. Anand
+This data in this cell is Dhanush, Amyra Dastur, Karthik
+This data in this cell is Romantic thriller
+This data in this cell is AGS Entertainment
+This data in this cell is [11]
+This row has 6 cells
+This data in this cell is Mandodhari
+This data in this cell is Sampath
+This data in this cell is Ranjith, Amar, Dhareena
+This data in this cell is Horror
+This data in this cell is Milestone Films
+This data in this cell is [11]
+This row has 6 cells
+This data in this cell is Manitha Kadhal Alla
+This data in this cell is Agni
+This data in this cell is Agni, Tarushi, Nasser
+This data in this cell is Romance
+This data in this cell is BlackSea Movies
+This data in this cell is [11]
+This row has 7 cells
+This data in this cell is 20
+This data in this cell is K3
+This data in this cell is M. S. Annadurai
+This data in this cell is Vimal Raja, Aadhira
+This data in this cell is Thriller
+This data in this cell is Magic Media
+This data in this cell is [12]
+This row has 6 cells
+This data in this cell is Sandamarutham
+This data in this cell is A. Venkatesh
+This data in this cell is Sarath Kumar, Meera Nandan, Oviya
+This data in this cell is Action
+This data in this cell is Magic Frames
+This data in this cell is [12]
+This row has 6 cells
+This data in this cell is Tamiluku En Ondrai Aluthavum
+This data in this cell is Ram Prakash Rayappa
+This data in this cell is Attakathi Dinesh, Nakul, Bindu Madhavi, Aishwarya Dutta
+This data in this cell is Social thriller
+This data in this cell is VLS Rock Cinema
+This data in this cell is [12]
+This row has 7 cells
+This data in this cell is 27
+This data in this cell is Ettuthikkum Madhayaanai
+This data in this cell is K. S. Thangasamy
+This data in this cell is Sathya, Sreemukhi
+This data in this cell is Action
+This data in this cell is Raattinam Pictures
+This data in this cell is [13]
+This row has 6 cells
+This data in this cell is Kaaki Sattai
+This data in this cell is R. S. Durai Senthilkumar,
+This data in this cell is Sivakarthikeyan, Sri Divya, Prabhu
+This data in this cell is Comedy masala
+This data in this cell is Wunderbar Films
+This data in this cell is [13]
+This row has 6 cells
+This data in this cell is Manal Nagaram
+This data in this cell is Oru Thalai Raagam Shankar
+This data in this cell is Prajin, Gautham Krishna, Thanishka, Varuna Shetty
+This data in this cell is Romantic drama
+This data in this cell is DJM Associates
+This data in this cell is [13]
+This row has 6 cells
+This data in this cell is Vajram
+This data in this cell is Ramesh Selvan
+This data in this cell is Sree Raam, Kishore, Pandi, Bhavani Reddy
+This data in this cell is Comedy drama
+This data in this cell is Sri Sairam Film Factory
+This data in this cell is [13]
+This row has 8 cells and month is MAR
+This data in this cell is M
+A
+R
+This data in this cell is 6
+This data in this cell is Bench Talkies - The First Bench
+This data in this cell is Six directors
+This data in this cell is Vijay Sethupathi, Sananth Reddy
+This data in this cell is Anthology
+This data in this cell is Stone Bench Creations
+This data in this cell is [14]
+This row has 6 cells
+This data in this cell is En Vazhi Thani Vazhi
+This data in this cell is Shaji Kailas
+This data in this cell is R. K., Poonam Kaur, Meenakshi Dixit
+This data in this cell is Action
+This data in this cell is Makkal Paasarai
+This data in this cell is [14]
+This row has 6 cells
+This data in this cell is Enakkul Oruvan
+This data in this cell is Prasad Ramar
+This data in this cell is Siddharth, Deepa Sannidhi, Srushti Dange
+This data in this cell is Psychological thriller
+This data in this cell is Thirukumaran Entertainment
+ABI TCS Studios
+This data in this cell is [14]
+This row has 6 cells
+This data in this cell is JK Enum Nanbanin Vaazhkai
+(Direct-to-video)
+This data in this cell is Cheran
+This data in this cell is Sharwanand, Nithya Menen, Prakash Raj
+This data in this cell is Drama
+This data in this cell is Dream Theatres
+This data in this cell is [15][16]
+This row has 6 cells
+This data in this cell is Maha Maha
+This data in this cell is Mathivanan Sakthivel
+This data in this cell is Mathivanan, Melisha
+This data in this cell is Romantic thriller
+This data in this cell is Sakthi Screens
+This data in this cell is [14]
+This row has 6 cells
+This data in this cell is Rombha Nallavan Da Nee
+This data in this cell is A. Venkatesh
+This data in this cell is Mirchi Senthil, Sruthi Bala, Sarvajeeth
+This data in this cell is Comedy
+This data in this cell is Rendezvous Movie Makers
+This data in this cell is [14]
+This row has 6 cells
+This data in this cell is Serndhu Polama
+This data in this cell is Anil Kumar
+This data in this cell is Vinay, Madhuurima, Preethi Christina Paul
+This data in this cell is Romance
+This data in this cell is Dream Factory
+This data in this cell is [14]
+This row has 6 cells
+This data in this cell is Thoppi
+This data in this cell is Youreka
+This data in this cell is Murali Ram, Rakshaya Raj
+This data in this cell is Romantic drama
+This data in this cell is Nimo Productions
+This data in this cell is [14]
+This row has 7 cells
+This data in this cell is 13
+This data in this cell is Aivaraattam
+This data in this cell is Mithun Manikkam
+This data in this cell is Dushyanth Jayaprakash, Niranjan Jayaprakash, Nithya Shetty, Jayaprakash
+This data in this cell is Sports drama
+This data in this cell is The Vibrant Movies
+This data in this cell is [17]
+This row has 6 cells
+This data in this cell is Ivanuku Thannila Gandam
+This data in this cell is S. N. Sakthivel
+This data in this cell is Deepak Dinkar, Neha Ratnakaran, Rajendran
+This data in this cell is Comedy
+This data in this cell is VVR Cine Mask
+This data in this cell is [17]
+This row has 6 cells
+This data in this cell is Katham Katham
+This data in this cell is Babu Thooyavan
+This data in this cell is Nandha, Natraj, Sanam Shetty, Sharika
+This data in this cell is Action
+This data in this cell is Appu Movies
+This data in this cell is [17]
+This row has 6 cells
+This data in this cell is Mahabalipuram
+This data in this cell is Don Sandy
+This data in this cell is Vinayak, Vithika Sheru, Karunakaran, Ramesh Thilak, Angana Roy
+This data in this cell is Comedy drama
+This data in this cell is Studio 9 Productions
+Clapboard Movies
+This data in this cell is [17]
+This row has 6 cells
+This data in this cell is Rajathandhiram
+This data in this cell is Amit
+This data in this cell is Veera, Regina Cassandra
+This data in this cell is Heist
+This data in this cell is Sunland Cinemas
+White Bucket Productions
+This data in this cell is [17]
+This row has 6 cells
+This data in this cell is Sonna Pocchu
+This data in this cell is Sairam
+This data in this cell is Alagu, Gopika, Lakshmi
+This data in this cell is Horror
+This data in this cell is Aim High Creations
+This data in this cell is [17]
+This row has 6 cells
+This data in this cell is Thavarana Pathai
+This data in this cell is Sri Arun
+This data in this cell is Surya Teja, Naveena Jackson, Surabhi Swathi, Giridhar
+This data in this cell is Romantic thriller
+This data in this cell is Devakala Films
+This data in this cell is [17]
+This row has 6 cells
+This data in this cell is Vaanavil Vaazhkai
+This data in this cell is James Vasanthan
+This data in this cell is Jose Selvaraj, Janani Rajan, Jithi, Cassandra, Jonathan, Sai Shankar, Shilvi Sharon, Maya, Gaana Shiva
+This data in this cell is Musical
+This data in this cell is Oceanaa AJR Cine Arts
+This data in this cell is [17]
+This row has 7 cells
+This data in this cell is 20
+This data in this cell is Aaya Vada Sutta Kadhai
+This data in this cell is N. Phanindra
+This data in this cell is Avitej, Supurna, Manoharan K., Sai Prashanth
+This data in this cell is Comedy
+This data in this cell is Pixl Films
+This data in this cell is [18]
+This row has 6 cells
+This data in this cell is Agathinai
+This data in this cell is U. P. Marudhu
+This data in this cell is Varma, Mahima Nambiar, Aadukalam Naren
+This data in this cell is Drama
+This data in this cell is Sri Harini Pictures
+This data in this cell is [18]
+This row has 6 cells
+This data in this cell is Iravum Pagalum Varum
+This data in this cell is Balasriram
+This data in this cell is Mahesh, Ananya
+This data in this cell is Romantic thriller
+This data in this cell is Sky Dot Films
+This data in this cell is [18]
+This row has 6 cells
+This data in this cell is Kadavul Paathi Mirugam Paathi
+This data in this cell is Raaj-Suresh
+This data in this cell is Raj Zacharias, Sethu, Swetha Vijay, Pooja Umashankar
+This data in this cell is Drama
+This data in this cell is Celebs & Red Carpet Studios
+This data in this cell is [18]
+This row has 6 cells
+This data in this cell is Kallappadam
+This data in this cell is J. Vadivel
+This data in this cell is Vadivel, Lakshmi Priyaa Chandramouli, Sreerama Santhosh, Gaugin
+This data in this cell is Thriller
+This data in this cell is Iraivan Films
+This data in this cell is [18]
+This row has 6 cells
+This data in this cell is Kaala Kattam
+This data in this cell is K. Bhaskar
+This data in this cell is Pawan, Satyashri
+This data in this cell is Romance
+This data in this cell is Jai Indra Movies
+This data in this cell is [18]
+This row has 6 cells
+This data in this cell is Mooch
+This data in this cell is Vinu Bharathi
+This data in this cell is Nithin George, Misha Ghoshal, Jayaraj, Abhi, Diya, Suhasini, Vellore Girija
+This data in this cell is Horror
+This data in this cell is Great B Productions
+This data in this cell is [18]
+This row has 6 cells
+This data in this cell is Patra
+This data in this cell is Jayantan
+This data in this cell is Mithunn Dev, Vaidhehi
+This data in this cell is Action drama
+This data in this cell is GK Cinemaas
+This data in this cell is [18]
+This row has 6 cells
+This data in this cell is Thilagar
+This data in this cell is B. Perumal Pillai
+This data in this cell is Dhruvva, Mrudhula Bhaskar, Kishore
+This data in this cell is Action drama
+This data in this cell is Anger Print
+This data in this cell is [18]
+This row has 6 cells
+This data in this cell is Vethu Vaettu
+This data in this cell is S. Manibarathi
+This data in this cell is Harish, Malavika Menon, Ganja Karuppu
+This data in this cell is Romance
+This data in this cell is Vivin Movie
+This data in this cell is [18]
+This row has 7 cells
+This data in this cell is 27
+This data in this cell is Charles Shafiq Karthiga
+This data in this cell is Sathiya Moorthy Saravanan
+This data in this cell is Sharran Kumar, Mishal, Jai Quehaeni, Narayan Lucky, Vimal Antony
+This data in this cell is Thriller
+This data in this cell is SS Film Factory
+This data in this cell is [19]
+This row has 6 cells
+This data in this cell is Manadhil Oru Maatram
+This data in this cell is Janaa Venkat
+This data in this cell is Madhan, Spoorthi Suresh
+This data in this cell is Romance
+This data in this cell is Kotrak Films
+This data in this cell is [19]
+This row has 6 cells
+This data in this cell is Nadhigal Nanaivadhillai
+This data in this cell is Nanjil P. C. Anbazhahan
+This data in this cell is Pranav, Monica, Risha
+This data in this cell is Romance
+This data in this cell is Saraswathi Entertainment
+This data in this cell is [19]
+This row has 6 cells
+This data in this cell is Sarithram Pesu
+This data in this cell is Sri Mahesh
+This data in this cell is Dr. Saravanan, Kannika, Kiruba, Yogeshwaran Bose
+This data in this cell is Drama
+This data in this cell is Ayyanar Films
+This data in this cell is [19]
+This row has 6 cells
+This data in this cell is Valiyavan
+This data in this cell is M. Saravanan
+This data in this cell is Jai, Andrea Jeremiah
+This data in this cell is Action
+This data in this cell is SK Studios
+This data in this cell is [19]
+This row has 8 cells and month is APR
+This data in this cell is A
+P
+R
+This data in this cell is 2
+This data in this cell is Komban
+This data in this cell is Muthiah
+This data in this cell is Karthi, Lakshmi Menon, Rajkiran
+This data in this cell is Action drama
+This data in this cell is Studio Green
+This data in this cell is [20]
+This row has 6 cells
+This data in this cell is Nannbenda
+This data in this cell is Jagdish
+This data in this cell is Udhayanidhi Stalin, Nayantara, Santhanam
+This data in this cell is Romantic comedy
+This data in this cell is Red Giant Movies
+This data in this cell is [20]
+This row has 6 cells
+This data in this cell is Sagaptham
+This data in this cell is Surendran
+This data in this cell is Shanmugapandian, Neha Hinge, Shubra Aiyappa
+This data in this cell is Action
+This data in this cell is Captain Cine Creations
+This data in this cell is [20]
+This row has 7 cells
+This data in this cell is 10
+This data in this cell is Chennai Ungalai Anbudan Varaverkirathu
+This data in this cell is Marudhu Pandian
+This data in this cell is Bobby Simha, Lingaa, Prapanjayan, Saranya, Panimalar, Nisha Krishnan
+This data in this cell is Drama
+This data in this cell is ATM Productions
+This data in this cell is [21]
+This row has 6 cells
+This data in this cell is Thunai Mudhalvar
+This data in this cell is R. Vivekanand
+This data in this cell is K. Bhagyaraj, Jayaram, Shwetha Menon, Sandhya
+This data in this cell is Satire
+This data in this cell is Anugrahada Art Films
+This data in this cell is [21]
+This row has 7 cells
+This data in this cell is 17
+This data in this cell is Kanchana 2
+This data in this cell is Raghava Lawrence
+This data in this cell is Raghava Lawrence, Taapsee Pannu, Nithya Menen
+This data in this cell is Horror comedy
+This data in this cell is Raghavendra Productions
+This data in this cell is [22]
+This row has 6 cells
+This data in this cell is O Kadhal Kanmani
+This data in this cell is Mani Ratnam
+This data in this cell is Dulquer Salmaan, Nithya Menen, Prakash Raj, Leela Samson
+This data in this cell is Romance
+This data in this cell is Madras Talkies
+This data in this cell is [22]
+This row has 7 cells
+This data in this cell is 24
+This data in this cell is Iridiyam
+This data in this cell is Sai Mukhunthan
+This data in this cell is Mohan Kumar, Aarushi, Vijay Adith, Jangiri Madhumitha, Srinivasan
+This data in this cell is Action comedy
+This data in this cell is Quadra Movies
+This data in this cell is [23]
+This row has 6 cells
+This data in this cell is Kangaroo
+This data in this cell is Samy
+This data in this cell is Arjuna, Varsha Ashwathi, Sri Priyanka
+This data in this cell is Adventure
+This data in this cell is V House Productions
+This data in this cell is [23]
+This row has 6 cells
+This data in this cell is Neethane En Kovil
+This data in this cell is N. Pathu
+This data in this cell is Pathu, Nagaraj
+This data in this cell is Romance
+This data in this cell is Nagu Creations
+This data in this cell is [23]
+This row has 6 cells
+This data in this cell is Yoogan
+This data in this cell is G. Kamal
+This data in this cell is Yashmith, Siddhu GRN, Sakshi Agarwal, Pradeep Balaji, Shyam Kirthivasan
+This data in this cell is Horror
+This data in this cell is Twins Production
+This data in this cell is [23]
+This row has 8 cells and month is MAY
+This data in this cell is M
+A
+Y
+This data in this cell is 1
+This data in this cell is Vai Raja Vai
+This data in this cell is Aishwarya R. Dhanush
+This data in this cell is Gautham Karthik, Priya Anand, Vivek, Daniel Balaji, Taapsee Pannu
+This data in this cell is Thriller
+This data in this cell is AGS Entertainment
+This data in this cell is [24]
+This row has 7 cells
+This data in this cell is 2
+This data in this cell is Uttama Villain
+This data in this cell is Ramesh Aravind
+This data in this cell is Kamal Haasan, K. Balachander, Urvashi, Andrea Jeremiah, Pooja Kumar
+This data in this cell is Comedy drama
+This data in this cell is Thirrupathi Brothers
+Raaj Kamal Films International
+This data in this cell is [25]
+This row has 7 cells
+This data in this cell is 8
+This data in this cell is India Pakistan
+This data in this cell is N. Anand
+This data in this cell is Vijay Antony, Sushma Raj
+This data in this cell is Comedy
+This data in this cell is Vijay Antony Film Corporation
+This data in this cell is [26]
+This row has 6 cells
+This data in this cell is Kadhal Ilavasam
+This data in this cell is S. R. Balakrishnan
+This data in this cell is B. Ganesh, Jshmitha
+This data in this cell is Romance
+This data in this cell is Santhya Creations
+This data in this cell is [26]
+This row has 6 cells
+This data in this cell is MGR Sivaji Rajini Kamal
+This data in this cell is Robert
+This data in this cell is Robert, Suresh, Manoj, Ramji, Aishwarya, Nirosha, Vanitha
+This data in this cell is Comedy
+This data in this cell is Vanitha Film Production
+This data in this cell is [26]
+This row has 7 cells
+This data in this cell is 15
+This data in this cell is 36 Vayadhinile
+This data in this cell is Rosshan Andrrews
+This data in this cell is Jyothika, Rahman, Abhirami
+This data in this cell is Drama
+This data in this cell is 2D Entertainment
+This data in this cell is [27]
+This row has 6 cells
+This data in this cell is Purampokku Engira Podhuvudamai
+This data in this cell is S. P. Jananathan
+This data in this cell is Arya, Vijay Sethupathi, Shaam, Karthika Nair
+This data in this cell is Political thriller
+This data in this cell is UTV Motion Pictures
+This data in this cell is [27]
+This row has 7 cells
+This data in this cell is 22
+This data in this cell is Demonte Colony
+This data in this cell is Ajay Gnanamuthu
+This data in this cell is Arulnithi, Ramesh Thilak, Sananth Reddy
+This data in this cell is Horror
+This data in this cell is Mohana Movies
+This data in this cell is [28]
+This row has 6 cells
+This data in this cell is Kamara Kattu
+This data in this cell is Ramki Ramakrishnan
+This data in this cell is Sree Raam, Yuvan, Manishajith, Raksha Raj
+This data in this cell is Drama
+This data in this cell is Sree Daksha Innovations,
+Reves Creations
+This data in this cell is [28]
+This row has 6 cells
+This data in this cell is Nanbargal Narpani Mandram
+This data in this cell is Radha Bharathi
+This data in this cell is Jainath, Akshaya
+This data in this cell is Drama
+This data in this cell is Sri Annamalaiyar Movies
+This data in this cell is [28]
+This row has 6 cells
+This data in this cell is Siruvani
+This data in this cell is Ragunath
+This data in this cell is Sanjay, Aishwari
+This data in this cell is Romance
+This data in this cell is Marudhamalai Films
+This data in this cell is [28]
+This row has 6 cells
+This data in this cell is Thiranthidu Seese
+This data in this cell is M. Nimesh Varshan
+This data in this cell is Dhansika, Veeravan Stalin, Narayan Lucky, Anjena Kirti
+This data in this cell is Thriller
+This data in this cell is Sudhas Production
+This data in this cell is [28]
+This row has 6 cells
+This data in this cell is Vindhai
+This data in this cell is Laura
+This data in this cell is Mahendran, Manishajith, M. S. Bhaskar, Manobala
+This data in this cell is Comedy
+This data in this cell is Annai Pudhumai Madha Films
+This data in this cell is [28]
+This row has 7 cells
+This data in this cell is 29
+This data in this cell is Iruvar Ondranal
+This data in this cell is Anbu G.
+This data in this cell is P. R. Prabhu, Krithika Malini
+This data in this cell is Romance
+This data in this cell is Ramana Arts
+This data in this cell is [29]
+This row has 6 cells
+This data in this cell is Masss
+This data in this cell is Venkat Prabhu
+This data in this cell is Suriya, Nayantara, Pranitha, Parthiban, Samuthirakani
+This data in this cell is Supernatural thriller
+This data in this cell is Aadnah Arts
+This data in this cell is [29]
+This row has 6 cells
+This data in this cell is Soan Papdi
+This data in this cell is Sivani
+This data in this cell is Sri, Sahil, Niranjana, Priya
+This data in this cell is Comic thriller
+This data in this cell is Golden Movie Maker
+This data in this cell is [29]
+This row has 8 cells and month is JUN
+This data in this cell is J
+U
+N
+This data in this cell is 5
+This data in this cell is Buddhanin Sirippu
+This data in this cell is Victor Davidson
+This data in this cell is Samuthirakani, Mahesh, Vivek, Mithra Kurian
+This data in this cell is Drama
+This data in this cell is Sakaria Productions
+This data in this cell is [30]
+This row has 6 cells
+This data in this cell is Dhegam Sudukuthu
+This data in this cell is K. P. Ganesh
+This data in this cell is Vijay Kumar, Kalyani
+This data in this cell is Adult
+This data in this cell is KCV Films
+This data in this cell is [30]
+This row has 6 cells
+This data in this cell is Kaaka Muttai
+This data in this cell is M. Manikandan
+This data in this cell is Vignesh, Ramesh, Aishwarya Rajesh
+This data in this cell is Comedy drama
+This data in this cell is Wunderbar Films
+Grass Root Film Company
+This data in this cell is [30]
+This row has 6 cells
+This data in this cell is Kathamma
+This data in this cell is M. D. Sukumaran
+This data in this cell is Biju, Aathira, Ashok Raj, Shivaji Mallika
+This data in this cell is Drama
+This data in this cell is Bougainvillea Films
+This data in this cell is [30]
+This row has 6 cells
+This data in this cell is Puriyadha Anandam Puthithaga Arambam
+This data in this cell is Syed Ibrahim
+This data in this cell is Krish, Srushti Dange
+This data in this cell is Romance
+This data in this cell is Rowther Films
+This data in this cell is [30]
+This row has 7 cells
+This data in this cell is 12
+This data in this cell is Inimey Ippadithan
+This data in this cell is Muruganand
+This data in this cell is Santhanam, Ashna Zaveri, Akhila Kishore
+This data in this cell is Comedy
+This data in this cell is Handmade Films
+This data in this cell is [31]
+This row has 6 cells
+This data in this cell is Romeo Juliet
+This data in this cell is Lakshman
+This data in this cell is Jayam Ravi, Hansika Motwani
+This data in this cell is Romantic comedy
+This data in this cell is Madras Enterprises
+This data in this cell is [31]
+This row has 7 cells
+This data in this cell is 19
+This data in this cell is Achaaram
+This data in this cell is Mohan Krishna
+This data in this cell is Ganesh Venkatraman, Munna, Poonam Kaur
+This data in this cell is Crime thriller
+This data in this cell is Dhaaru Nisha Movies
+This data in this cell is [32]
+This row has 6 cells
+This data in this cell is Eli
+This data in this cell is Yuvaraj Dhayalan
+This data in this cell is Vadivelu, Sadha, Pradeep Rawat
+This data in this cell is Spy comedy
+This data in this cell is City Cine Creations
+This data in this cell is [32]
+This row has 6 cells
+This data in this cell is Iru Kadhal Oru Kadhai
+This data in this cell is P. Panneerselvam
+This data in this cell is Jana, Anu Krishna
+This data in this cell is Romance
+This data in this cell is TJ Movies
+This data in this cell is [32]
+This row has 6 cells
+This data in this cell is Iyakkunar
+This data in this cell is Rajath
+This data in this cell is Rajath, Ashmitha, Risha, Shruti Swastika
+This data in this cell is Comedy
+This data in this cell is Jayalakshmi Golden Jubilee Films
+This data in this cell is [32]
+This row has 7 cells
+This data in this cell is 26
+This data in this cell is Indru Netru Naalai
+This data in this cell is Ravi Kumar R.
+This data in this cell is Vishnu, Mia George, Karunakaran
+This data in this cell is Science-fiction comedy
+This data in this cell is Thirukumaran Entertainment
+This data in this cell is [33]
+This row has 6 cells
+This data in this cell is Kaaval
+This data in this cell is Nagendran R.
+This data in this cell is Vimal, Samuthirakani, 'Punnagai Poo' Gheetha
+This data in this cell is Action
+This data in this cell is SG Films
+This data in this cell is [33]
+This row has 6 cells
+This data in this cell is Lodukku Pandi
+This data in this cell is Rajneesh
+This data in this cell is Karunas, Neha Saxena
+This data in this cell is Comedy
+This data in this cell is G Pictures
+This data in this cell is [33]
+This row has 6 cells
+This data in this cell is Moone Moonu Varthai
+This data in this cell is Madhumitha
+This data in this cell is Arjun Chidambaram, Aditi Chengappa, Venkatesh Harinathan
+This data in this cell is Romantic comedy
+This data in this cell is Capital Film Works
+This data in this cell is [33]
+This row has 6 cells
+This data in this cell is Yagavarayinum Naa Kaakka
+This data in this cell is Sathya
+This data in this cell is Aadhi, Nikki Galrani, Mithun Chakraborty, Richa Pallod
+This data in this cell is Action drama
+This data in this cell is Adharsha Chitralaya
+This data in this cell is [33]
+This row has 0 cells
+This row has 8 cells and month is JUL
+This data in this cell is J
+U
+L
+This data in this cell is 3
+This data in this cell is Baby
+This data in this cell is D. Suresh
+This data in this cell is Manoj K. Bharathi, Shira Gaarg, Baby Sathanya, Srivarshini
+This data in this cell is Horror
+This data in this cell is RK Entertainers
+This data in this cell is [34]
+This row has 6 cells
+This data in this cell is Oru Thozhan Oru Thozhi
+This data in this cell is P. Mohan
+This data in this cell is Meenesh Krishna, Mano Deepan, Asthra, Abinitha
+This data in this cell is Romance
+This data in this cell is Ghantharvaa Celluloids Creators
+This data in this cell is [34]
+This row has 6 cells
+This data in this cell is Palakkattu Madhavan
+This data in this cell is M. Chandramohan
+This data in this cell is Vivek, Sonia Agarwal, Sheela
+This data in this cell is Comedy drama
+This data in this cell is ABC Dreams
+This data in this cell is [34]
+This row has 6 cells
+This data in this cell is Papanasam
+This data in this cell is Jeethu Joseph
+This data in this cell is Kamal Haasan, Gauthami, Niveda Thomas, Asha Sarath
+This data in this cell is Drama-thriller
+This data in this cell is Wide Angle Creations
+Raj Kumar Theatres
+This data in this cell is [34]
+This row has 6 cells
+This data in this cell is Paranjothi
+This data in this cell is Gopu Balaji
+This data in this cell is Sarathy Natesan, Ansiba Hassan, Vijayakumar
+This data in this cell is Drama
+This data in this cell is IPL Cinemas
+This data in this cell is [34]
+This row has 7 cells
+This data in this cell is 10
+This data in this cell is Baahubali: The Beginning
+This data in this cell is S. S. Rajamouli
+This data in this cell is Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah
+This data in this cell is Epic / History
+This data in this cell is Arka Media Works
+This data in this cell is [35][36]
+This row has 6 cells
+This data in this cell is Kamaraj
+This data in this cell is A. Balakrishnan
+This data in this cell is Richard Madhuram, Samuthirakani, Sambathraj Sumant, Mahendran
+This data in this cell is Biography
+This data in this cell is Ramana Communications
+This data in this cell is [36]
+This row has 6 cells
+This data in this cell is Ore Oru Raja Mokkaraja
+This data in this cell is Sathosh Gopal
+This data in this cell is Sanjeev Kumar, Ranjith, Rajendran
+This data in this cell is Action
+This data in this cell is Devakala Films
+This data in this cell is [36]
+This row has 6 cells
+This data in this cell is Maharani Kottai
+This data in this cell is Vinod Kumar
+This data in this cell is Richard Rishi, Aani Princy, Ashwin Raja, Ganja Karuppu
+This data in this cell is Horror
+This data in this cell is Thanamalar Creations
+This data in this cell is [36]
+This row has 6 cells
+This data in this cell is Miss Pannidatheenga Apram Varuthapaduveenga
+This data in this cell is K. Saravanan
+This data in this cell is Suresh Kumar, Pandiarajan, Livingston, Crane Manohar
+This data in this cell is Comedy
+This data in this cell is Jamna Films International
+This data in this cell is [36]
+This row has 7 cells
+This data in this cell is 17
+This data in this cell is Maari
+This data in this cell is Balaji Mohan
+This data in this cell is Dhanush, Kajal Aggarwal, Vijay Yesudas
+This data in this cell is Action Masala
+This data in this cell is Magic Frames,
+Wunderbar Films
+This data in this cell is [37]
+This row has 7 cells
+This data in this cell is 24
+This data in this cell is Naalu Policeum Nalla Irundha Oorum
+This data in this cell is N. J. Srikrishna
+This data in this cell is Arulnithi, Remya Nambeesan, Singampuli
+This data in this cell is Comedy
+This data in this cell is JSK Film Corporation
+This data in this cell is [38]
+This row has 6 cells
+This data in this cell is Aavi Kumar
+This data in this cell is Kandeepan
+This data in this cell is Udhaya, Kanika Tiwari
+This data in this cell is Supernatural thriller
+This data in this cell is Volmart Films
+This data in this cell is [38]
+This row has 6 cells
+This data in this cell is Guru Sukran
+This data in this cell is Anand
+This data in this cell is Guru, Kamalnath, Diana Titus, Tripura, Aadukalam Naren
+This data in this cell is Action
+This data in this cell is Guru Kamalam Associates
+This data in this cell is [38]
+This row has 7 cells
+This data in this cell is 31
+This data in this cell is Idhu Enna Maayam
+This data in this cell is A. L. Vijay
+This data in this cell is Vikram Prabhu, Navdeep, Keerthy Suresh, Kavya Shetty
+This data in this cell is Romantic comedy
+This data in this cell is Magic Frames,
+Think Big Studios
+This data in this cell is [39]
+This row has 6 cells
+This data in this cell is Orange Mittai
+This data in this cell is Biju Viswanath
+This data in this cell is Vijay Sethupathi, Ramesh Thilak, Aashritha
+This data in this cell is Comedy drama
+This data in this cell is Vijay Sethupathi Productions
+This data in this cell is [39]
+This row has 6 cells
+This data in this cell is Sakalakala Vallavan
+This data in this cell is Suraj
+This data in this cell is Jayam Ravi, Trisha, Anjali, Soori
+This data in this cell is Masala
+This data in this cell is Lakshmi Movie Makers
+This data in this cell is [39]
+This row has 8 cells and month is AUG
+This data in this cell is A
+U
+G
+This data in this cell is 7
+This data in this cell is Azhage Illatha Azhagana Kathai
+This data in this cell is Swaminathan
+This data in this cell is Vijaya Prakash
+This data in this cell is Drama
+This data in this cell is SSS Creations
+This data in this cell is [40]
+This row has 6 cells
+This data in this cell is Chandi Veeran
+This data in this cell is A. Sarkunam
+This data in this cell is Atharvaa, Anandhi, Lal
+This data in this cell is Action
+This data in this cell is B. Studios
+This data in this cell is [40]
+This row has 6 cells
+This data in this cell is Kalai Vendhan
+This data in this cell is R. K. Parasuram
+This data in this cell is Ajay, Sanam Shetty, Kalabhavan Mani
+This data in this cell is Action drama
+This data in this cell is S. K. Films International
+This data in this cell is [40]
+This row has 6 cells
+This data in this cell is Kurangu Kaila Poomalai
+This data in this cell is G. Krishna
+This data in this cell is Praveen Kumar Rajendran, Jagadeesh, Gautham, Chandini, Gayathri, Nisha
+This data in this cell is Comedy
+This data in this cell is Sai Ameer Productions
+This data in this cell is [40]
+This row has 6 cells
+This data in this cell is Vandha Mala
+This data in this cell is Igore
+This data in this cell is Tamil, Sri Priyanka, Prasad
+This data in this cell is Comedy
+This data in this cell is S. Jayaradha Krishnan
+This data in this cell is [40]
+This row has 1 cells
+This data in this cell is 14
+This row has 6 cells
+This data in this cell is Akila Muthalam Vaguppu
+This data in this cell is Suresh Saran
+This data in this cell is Thilaga Raj, Nazeer, Swathija
+This data in this cell is Romance
+This data in this cell is Thaaya Creations
+This data in this cell is [41]
+This row has 6 cells
+This data in this cell is Nirayudham
+This data in this cell is M. B. Rajadurai
+This data in this cell is Santhosh, Sharika
+This data in this cell is Thriller
+This data in this cell is SSN Creations
+This data in this cell is [41]
+This row has 6 cells
+This data in this cell is Vaalu
+This data in this cell is Vijay Chandar
+This data in this cell is Silambarasan, Hansika Motwani, Santhanam
+This data in this cell is Romantic comedy
+This data in this cell is NIC Arts
+This data in this cell is [41]
+This row has 6 cells
+This data in this cell is Vasuvum Saravananum Onna Padichavanga
+This data in this cell is M. Rajesh
+This data in this cell is Arya, Tamannaah, Santhanam, Muktha Bhanu
+This data in this cell is Romantic comedy
+This data in this cell is The Show People
+This data in this cell is [41]
+This row has 7 cells
+This data in this cell is 21
+This data in this cell is Aluchatiyam
+This data in this cell is Premkumar
+This data in this cell is Raghu, Ramya
+This data in this cell is Drama
+This data in this cell is Nisa Pictures
+This data in this cell is [42]
+This row has 6 cells
+This data in this cell is Jigina
+This data in this cell is Nandha Periyasamy
+This data in this cell is Vijay Vasanth, Sanyathara, Singampuli
+This data in this cell is Romantic comedy
+This data in this cell is Thirrupathi Brothers
+This data in this cell is [42]
+This row has 7 cells
+This data in this cell is 28
+This data in this cell is Adhibar
+This data in this cell is Surya Prakash
+This data in this cell is Jeevan, Vidya Pradeep, Nandha, Richard Rishi
+This data in this cell is Action
+This data in this cell is Benn Consortium Studios
+This data in this cell is [43]
+This row has 6 cells
+This data in this cell is Thakka Thakka
+This data in this cell is Sanjeev
+This data in this cell is Vikranth, Aravinnd Singh, Rahul Venkat, Abhinaya, Leema Babu, Parvati Nirban
+This data in this cell is Action drama
+This data in this cell is Studio Versatile
+This data in this cell is [44]
+This row has 6 cells
+This data in this cell is Thani Oruvan
+This data in this cell is M. Raja
+This data in this cell is Jayam Ravi, Aravind Swamy, Nayantara
+This data in this cell is Action thriller
+This data in this cell is AGS Entertainment
+This data in this cell is [45][46]
+This row has 8 cells and month is SEP
+This data in this cell is S
+E
+P
+This data in this cell is 4
+This data in this cell is Bhanu
+This data in this cell is G. V. Seenu
+This data in this cell is G. V. Seenu, Aishwarya Sant, Udhayaaraj
+This data in this cell is Drama
+This data in this cell is Kamal G Pictures
+This data in this cell is [47]
+This row has 6 cells
+This data in this cell is Paayum Puli
+This data in this cell is Suseenthiran
+This data in this cell is Vishal, Kajal Aggarwal, Samuthirakani
+This data in this cell is Action drama
+This data in this cell is Vendhar Movies
+This data in this cell is [47]
+This row has 6 cells
+This data in this cell is Pokkiri Mannan
+This data in this cell is Ragomadhesh
+This data in this cell is Sridhar, Spoorthi Suresh
+This data in this cell is Action
+This data in this cell is Srinidhi Films
+This data in this cell is [47]
+This row has 6 cells
+This data in this cell is Savaale Samaali
+This data in this cell is Sathyasiva
+This data in this cell is Ashok Selvan, Bindu Madhavi
+This data in this cell is Comedy
+This data in this cell is K Productions
+This data in this cell is [47]
+This row has 7 cells
+This data in this cell is 11
+This data in this cell is 9 Thirudargal
+This data in this cell is Vijay Paramasivam
+This data in this cell is Saran, Akansha Mohan, Y. G. Mahendra
+This data in this cell is Comedy
+This data in this cell is Golden House Creations
+This data in this cell is [48]
+This row has 6 cells
+This data in this cell is Maanga
+This data in this cell is R. S. Raja
+This data in this cell is Premgi Amaren, Advaitha, Leema Babu
+This data in this cell is Science fiction comedy
+This data in this cell is Dream Zone Movies
+This data in this cell is [48]
+This row has 6 cells
+This data in this cell is Naanaage Naanillai
+This data in this cell is A. P. Rethinam
+This data in this cell is Vijayabalan, Kamali
+This data in this cell is Drama
+This data in this cell is Thiru Neelakanda Vinayagar Pictures
+This data in this cell is [48]
+This row has 6 cells
+This data in this cell is Strawberry
+This data in this cell is Pa. Vijay
+This data in this cell is Pa. Vijay, Avani Modi, Yuvina Parthavi
+This data in this cell is Horror
+This data in this cell is Vil Makers
+This data in this cell is [48]
+This row has 6 cells
+This data in this cell is Yatchan
+This data in this cell is Vishnuvardhan
+This data in this cell is Arya, Kreshna, Deepa Sannidhi, Swathi Reddy
+This data in this cell is Action comedy
+This data in this cell is Vishnuvardhan Pictures,
+UTV Motion Pictures
+This data in this cell is [48]
+This row has 7 cells
+This data in this cell is 17
+This data in this cell is 49-O
+This data in this cell is P. Arokiyadoss
+This data in this cell is Goundamani, Guru Somasundaram
+This data in this cell is Satire
+This data in this cell is Zero Rules Entertainment
+This data in this cell is [49]
+This row has 6 cells
+This data in this cell is Maya
+This data in this cell is Ashwin Saravanan
+This data in this cell is Nayantara, Aari, Amzath Khan, Lakshmi Priyaa Chandramouli
+This data in this cell is Horror
+This data in this cell is Potential Studios
+This data in this cell is [49]
+This row has 6 cells
+This data in this cell is Trisha Illana Nayanthara
+This data in this cell is Adhik Ravichandran
+This data in this cell is G. V. Prakash Kumar, Anandhi, Manisha Yadav
+This data in this cell is Adult comedy
+This data in this cell is Cameo Films
+This data in this cell is [49]
+This row has 7 cells
+This data in this cell is 24
+This data in this cell is Jippaa Jimikki
+This data in this cell is Ra. Raajasekar
+This data in this cell is Krishik Divakar, Kushbu Prasad
+This data in this cell is Romantic comedy
+This data in this cell is 3 Friends Production
+This data in this cell is [50]
+This row has 6 cells
+This data in this cell is Kadhal Agathee
+This data in this cell is Shami Thirumalai
+This data in this cell is Harikumar, Aisha Azim, Mamtha
+This data in this cell is Romance
+This data in this cell is Ramaiah Cine Creations
+This data in this cell is [50]
+This row has 6 cells
+This data in this cell is Kirumi
+This data in this cell is Anucharan
+This data in this cell is Kathir, Reshmi Menon, Charle, David Solomon Raja, Marimuthu
+This data in this cell is Thriller
+This data in this cell is JPR Films
+This data in this cell is [50]
+This row has 6 cells
+This data in this cell is Kuttram Kadithal
+This data in this cell is Bramma G.
+This data in this cell is Master Ajay, Radhika Prasidhha, Sai Rajkumar
+This data in this cell is Drama
+This data in this cell is JSK Film Corporation,
+Chris Pictures
+This data in this cell is [50]
+This row has 6 cells
+This data in this cell is Thiruttu VCD
+This data in this cell is Sukumar
+This data in this cell is Prabha, Sakshi Agarwal, Devadarshini
+This data in this cell is Comedy
+This data in this cell is VPA Medias
+This data in this cell is [50]
+This row has 6 cells
+This data in this cell is Unakenna Venum Sollu
+This data in this cell is Srinath Ramalingam
+This data in this cell is Deepak Paramesh, Jaqlene Prakash, Gunalan Morgan
+This data in this cell is Horror
+This data in this cell is Juna Pictures
+This data in this cell is [50]
+This row has 8 cells and month is OCT
+This data in this cell is O
+C
+T
+This data in this cell is 1
+This data in this cell is Puli
+This data in this cell is Chimbu Deven
+This data in this cell is Vijay, Sudeep, Sridevi, Shruti Haasan, Hansika Motwani
+This data in this cell is Fantasy
+This data in this cell is SKT Studios
+This data in this cell is [51]
+This row has 7 cells
+This data in this cell is 2
+This data in this cell is Dummy Tappasu
+This data in this cell is Ravi OS
+This data in this cell is Praveen Prem, Ramya Pandian
+This data in this cell is Comedy
+This data in this cell is Yacht Ads
+This data in this cell is [52]
+This row has 7 cells
+This data in this cell is 9
+This data in this cell is Andhaadhi
+This data in this cell is Ramesh Venkatraman
+This data in this cell is Arjun Vijayaragavan, Anjena Kirti, Karthik Nagarajan, Sahithya Jagannathan, Bhargav Chakravarthy
+This data in this cell is Crime thriller
+This data in this cell is Dewdrop Pictures
+This data in this cell is [53]
+This row has 6 cells
+This data in this cell is Kaththukkutti
+This data in this cell is R. Saravanan
+This data in this cell is Narain, Soori, Srushti Dange
+This data in this cell is Romantic comedy
+This data in this cell is OWN Productions
+This data in this cell is [53]
+This row has 6 cells
+This data in this cell is Masala Padam
+This data in this cell is Laxman Kumar
+This data in this cell is Shiva, Bobby Simha, Gaurav, Laxmi Devy
+This data in this cell is Masala
+This data in this cell is Allin Pictures
+This data in this cell is [53]
+This row has 6 cells
+This data in this cell is Sathuran
+This data in this cell is Rajeev Prasad
+This data in this cell is Rajaj, Varsha Bollamma, Raju Easwaran
+This data in this cell is Action thriller
+This data in this cell is Kuberan Cinemas
+This data in this cell is [53]
+This row has 7 cells
+This data in this cell is 16
+This data in this cell is Athiradi
+This data in this cell is Mansoor Ali Khan
+This data in this cell is Mansoor Ali Khan, Moumita Choudhury
+This data in this cell is Comedy
+This data in this cell is Raj Kannadi Films
+This data in this cell is [54]
+This row has 6 cells
+This data in this cell is Maiem
+This data in this cell is Aditya Baskar
+This data in this cell is Naveen Sanjai, Jai Quehaeni, Kumaran Thangarajan, Suhasinni Kumaran, Hashim Zain, Pooja Devariya
+This data in this cell is Thriller
+This data in this cell is Sketchbook Productions
+This data in this cell is [54]
+This row has 6 cells
+This data in this cell is Marappaachi
+This data in this cell is K. S. Muthumanoharan
+This data in this cell is G. Muruganandam, Suganya
+This data in this cell is Horror
+This data in this cell is Gems Pictures
+This data in this cell is [54]
+This row has 6 cells
+This data in this cell is Sillunu Oru Payanam
+This data in this cell is R. Vishwa
+This data in this cell is Sohaib, Navya
+This data in this cell is Romance
+This data in this cell is GN Medias
+This data in this cell is [54]
+This row has 6 cells
+This data in this cell is Sivappu
+This data in this cell is Sathyasiva
+This data in this cell is Naveen Chandra, Rupa Manjari, Rajkiran, Thambi Ramaiah
+This data in this cell is Drama
+This data in this cell is Muktha Films
+This data in this cell is [54]
+This row has 6 cells
+This data in this cell is Thiraipada Nagaram
+This data in this cell is S. P. Gnanamozhi
+This data in this cell is Muthu, Priya
+This data in this cell is Romance
+This data in this cell is Udhyam Screens,
+Pasathai Movies
+This data in this cell is [54]
+This row has 7 cells
+This data in this cell is 21
+This data in this cell is 10 Enradhukulla
+This data in this cell is Vijay Milton
+This data in this cell is Vikram, Samantha Ruth Prabhu
+This data in this cell is Road thriller
+This data in this cell is Fox Star Studios,
+AR Muragadoss Productions
+This data in this cell is [55]
+This row has 6 cells
+This data in this cell is Naanum Rowdydhaan
+This data in this cell is Vignesh Shivan
+This data in this cell is Vijay Sethupathi, Nayantara, Parthiban
+This data in this cell is Romantic comedy
+This data in this cell is Wunderbar Films
+This data in this cell is [56]
+This row has 7 cells
+This data in this cell is 22
+This data in this cell is Kubera Rasi
+This data in this cell is R. Radhakrishnan
+This data in this cell is Roshan Basheer, Abhirami Suresh, Biju Isaac
+This data in this cell is Thriller
+This data in this cell is I & B Movies
+This data in this cell is [57]
+This row has 7 cells
+This data in this cell is 30
+This data in this cell is Aboorva Magan
+This data in this cell is Manimuthu
+This data in this cell is Thalaivasal Vijay, Sai Murali, Vinu Chakravarthy, Powerstar Srinivasan
+This data in this cell is Devotional
+This data in this cell is TNS Devar Films
+This data in this cell is [58]
+This row has 6 cells
+This data in this cell is Adhyan
+This data in this cell is Ram Manoj Kumar
+This data in this cell is Abhimanyu Nallamuthu, Sakshi Agarwal
+This data in this cell is Action
+This data in this cell is Rathang Pictures
+This data in this cell is [58]
+This row has 6 cells
+This data in this cell is Chikkiku Chikkikichu
+This data in this cell is N. Rajesh Kumar
+This data in this cell is Anoop Ravindran, Mrudula Murali
+This data in this cell is Romance
+This data in this cell is NCR Movie Creations
+This data in this cell is [58]
+This row has 6 cells
+This data in this cell is Illaignar Paasarai
+This data in this cell is Jayaraman Rithan
+This data in this cell is Vijay Muralee, Anu Krishna
+This data in this cell is Drama
+This data in this cell is Freedom Aarts
+This data in this cell is [58]
+This row has 6 cells
+This data in this cell is Kathirvel Kaaka
+This data in this cell is V. N. Premkumar
+This data in this cell is Manoj Bharathiraja, Preethika Sri, Karunas
+This data in this cell is Action
+This data in this cell is Sri Kaliyamman Films
+This data in this cell is [58]
+This row has 6 cells
+This data in this cell is Om Shanti Om
+This data in this cell is D. Surya Prabhakar
+This data in this cell is Srikanth, Neelam Upadhyaya, Aadukalam Naren, Vinodhini
+This data in this cell is Horror drama
+This data in this cell is 8 Point Entertainment
+This data in this cell is [58]
+This row has 6 cells
+This data in this cell is Pallikoodam Pogamale
+This data in this cell is Jayasheelan
+This data in this cell is Ganesh Venkatraman, Tejas, Aishwarya Raja, Srihari
+This data in this cell is Drama
+This data in this cell is Best Rolls
+This data in this cell is [58]
+This row has 6 cells
+This data in this cell is Viraivil Isai
+This data in this cell is V. S. Praba
+This data in this cell is Mahendran, Dhilip Roger, Sruthi Ramakrishnan, Arppana Prabhu
+This data in this cell is Drama
+This data in this cell is Thirumaruthi Pictures
+This data in this cell is [58]
+This row has 8 cells and month is NOV
+This data in this cell is N
+O
+V
+This data in this cell is 6
+This data in this cell is Iniya Ulavaga
+This data in this cell is J. Srinivasan
+This data in this cell is Prabhu Saravanan, Kalki
+This data in this cell is Romance
+This data in this cell is Badhrakaliamman Films
+This data in this cell is [59]
+This row has 6 cells
+This data in this cell is Kring Kring
+This data in this cell is Rahul
+This data in this cell is Rohan, Kavya
+This data in this cell is Crime thriller
+This data in this cell is RPM Cinemas
+This data in this cell is [59]
+This row has 6 cells
+This data in this cell is Uyirvarai Iniththaai
+This data in this cell is K.S.Thurai
+This data in this cell is Vashanth Sellathurai, Narvini Dery
+This data in this cell is Romantic drama
+This data in this cell is Aprodigi Productions
+This data in this cell is [59]
+This row has 7 cells
+This data in this cell is 10
+This data in this cell is Injimarappa
+This data in this cell is Saga
+This data in this cell is Sri Balaji, Sony Charishta
+This data in this cell is Romantic drama
+This data in this cell is Blue Hills Production
+This data in this cell is [60]
+This row has 6 cells
+This data in this cell is Thoongaa Vanam
+This data in this cell is Rajesh M. Selva
+This data in this cell is Kamal Haasan, Trisha, Prakash Raj, Kishore, Sampath Raj
+This data in this cell is Crime thriller
+This data in this cell is Raaj Kamal Films International,
+Gokulam Films
+This data in this cell is [61]
+This row has 6 cells
+This data in this cell is Vedalam
+This data in this cell is Siva
+This data in this cell is Ajith Kumar, Shruti Haasan, Lakshmi Menon
+This data in this cell is Action masala
+This data in this cell is Shri Sai Raam Creations
+This data in this cell is [62]
+This row has 7 cells
+This data in this cell is 20
+This data in this cell is Oru Naal Iravil
+This data in this cell is Anthony
+This data in this cell is Sathyaraj, Varun, Anumol, Yugi Sethu, Kalyani Natarajan
+This data in this cell is Thriller drama
+This data in this cell is Think Big Studios
+This data in this cell is [63]
+This row has 6 cells
+This data in this cell is Aaranyam
+This data in this cell is Kuberji
+This data in this cell is Ram, Neeraja
+This data in this cell is Drama
+This data in this cell is Aaha Oho Productions
+This data in this cell is [63]
+This row has 7 cells
+This data in this cell is 27
+This data in this cell is 144
+This data in this cell is G. Manikandan
+This data in this cell is Shiva, Ashok Selvan, Oviya, Sruthi Ramakrishnan
+This data in this cell is Comedy
+This data in this cell is Thirukumaran Entertainment
+Abi & Abi Studios
+This data in this cell is [64]
+This row has 6 cells
+This data in this cell is Inji Iduppazhagi
+This data in this cell is Prakash Kovelamudi
+This data in this cell is Anushka Shetty, Arya, Sonal Chauhan
+This data in this cell is Romantic comedy
+This data in this cell is PVP Cinema
+This data in this cell is [64]
+This row has 6 cells
+This data in this cell is Uppu Karuvaadu
+This data in this cell is Radha Mohan
+This data in this cell is Nandita, Karunakaran, Narayan
+This data in this cell is Comedy drama
+This data in this cell is First Copy Pictures
+Night Show Pictures
+This data in this cell is [64]
+This row has 8 cells and month is DEC
+This data in this cell is D
+E
+C
+This data in this cell is 4
+This data in this cell is Urumeen
+This data in this cell is Sakthivel Perumalsamy
+This data in this cell is Bobby Simha, Kalaiyarasan, Reshmi Menon
+This data in this cell is Action thriller
+This data in this cell is Axess Film Factory
+This data in this cell is [65]
+This row has 7 cells
+This data in this cell is 11
+This data in this cell is Eetti
+This data in this cell is Ravi Arasu
+This data in this cell is Adharvaa, Sri Divya, Jayaprakash
+This data in this cell is Action
+This data in this cell is Global Infotainment Pvt. Ltd
+This data in this cell is [66]
+This row has 6 cells
+This data in this cell is Thiruttu Rail
+This data in this cell is Thirupathi
+This data in this cell is Rakshan, Charan Selvam, Cathy
+This data in this cell is Action drama
+This data in this cell is SSS Movies
+This data in this cell is [66]
+This row has 7 cells
+This data in this cell is 18
+This data in this cell is Thanga Magan
+This data in this cell is Velraj
+This data in this cell is Dhanush, Samantha, Amy Jackson
+This data in this cell is Family drama
+This data in this cell is Wunderbar Films
+Gopuram Films
+This data in this cell is [67]
+This row has 7 cells
+This data in this cell is 24
+This data in this cell is Bhooloham
+This data in this cell is N. Kalyanakrishnan
+This data in this cell is Jayam Ravi, Trisha, Nathan Jones
+This data in this cell is Sports drama
+This data in this cell is Aascar Films
+This data in this cell is 
+This row has 6 cells
+This data in this cell is Pasanga 2
+This data in this cell is Pandiraj
+This data in this cell is Suriya, Amala Paul, Bindu Madhavi, Karthik Kumar
+This data in this cell is Comedy drama
+This data in this cell is 2D Entertainment
+This data in this cell is [68]
+This row has 6 cells
+This data in this cell is Vellaiya Irukiravan Poi Solla Maatan
+This data in this cell is A. L. Abanindran
+This data in this cell is Praveen Kumar, Shalini Vadnikatti, Sanam Shetty, Karthik Kumar
+This data in this cell is Comedy drama
+This data in this cell is Ignite Films
+This data in this cell is 

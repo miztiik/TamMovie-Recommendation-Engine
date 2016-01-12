@@ -8,17 +8,14 @@
 ## Ref [2]		:	https://github.com/shirk3y/scrapy-docker-alpine/blob/master/Dockerfile
 ##################################################################################
 
-FROM alpine:latest
-MAINTAINER mystique
-#RUN  echo "http://nl.alpinelinux.org/alpine/edge/testing">>/etc/apk/repositories
-RUN apk update
-RUN apk add python python-dev py-pip libxml2-dev libxslt-dev libffi-dev gcc musl-dev openssl-dev libgcc \
-    rm -rf /var/cache/apk/*;
-	
-RUN pip install --upgrade pip; \
-    pip install -U setuptools; \
-    pip install scrapy;
-	
-#CMD ["sh"]
-ENTRYPOINT ["/usr/bin/scrapy"]
-	
+sudo rpm -Uvh http://dl.fedoraproject.org/pub/epel/7/x86_64/e/epel-release-7-5.noarch.rpm
+yum update -y
+yum install python-pip -y
+yum install python-devel -y
+yum install gcc gcc-devel -y
+yum install libxml2 libxml2-devel -y
+yum install libxslt libxslt-devel -y
+yum install openssl openssl-devel -y
+yum install libffi libffi-devel -y
+pip install lxml
+pip install scrapy	
