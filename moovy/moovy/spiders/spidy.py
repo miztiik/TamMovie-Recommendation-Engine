@@ -25,6 +25,7 @@ class MoovySpider(scrapy.Spider):
     def parse(self,response):
 		rows = response.selector.xpath('//table[@class="wikitable sortable"]/tr')
 		for index, r1 in enumerate(rows):
+			mData = []
 			cells = r1.xpath('.//td')
 			if (len(cells) == 8):
 				#print ("This row has {} cells and month is {}".format(len(cells),str(cells[0].xpath('.//text()').extract())))
@@ -36,7 +37,7 @@ class MoovySpider(scrapy.Spider):
 				mWeek = cells[1].xpath('.//text()').extract()
 				# Remove any new line characters from the list  & use map to join the list into single string.
 				mWeek = map(lambda s: s.strip(), mWeek)
-				mWeek = ''.join(map(str,mWeek))				
+				mWeek = ''.join(map(str,mWeek))
 				print ("This row has {} cells and released on the month of {} , week ending {}".format(len(cells), mMonth, mWeek))
 				#list(skip(range(10), at_start=2, at_end=2))
 				cells = list(skip(cells,at_start=2,at_end=1))
@@ -54,7 +55,8 @@ class MoovySpider(scrapy.Spider):
 				data = c1.xpath('.//text()').extract()
 				#data = data.replace("\n"," ")
 				data = [s.replace('\n',', ') for s in data]
+				mData.append(''.join(map(str, data)))
 				#data = map(lambda s: s.strip(), data)
-				print ('The data in this cell is {}'.format(''.join(map(str, data))))
-			#print ('End of row')
+				print ('Month:{} , Week:{} , in this cell is {}'.format(mMonth,mWeek,''.join(map(str, data))))
+			#print ('Month:{} , Week:{} , in this cell is {}'.format(mMonth,mWeek,'|'.join(map(str, mData))))
 
